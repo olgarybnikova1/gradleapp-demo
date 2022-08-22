@@ -14,17 +14,12 @@
         </groups>
         <classes>
             <class name="com.example.TestClassOne">
-<!--                <methods>-->
-<!--                    <include name="testMethod" />-->
-<!--                </methods>-->
             </class>
         </classes>
     </test>
     <parameter name="color" value="blue color"/>
     <parameter name="font" value="Times New Roman"/>
   <test name="Parameters">
-<!--      <parameter name="color" value="blue color"/>-->
-<!--      <parameter name="font" value="Times New Roman"/>-->
   <classes>
     <class name= "com.example.TestClassTwo" />
   </classes>
